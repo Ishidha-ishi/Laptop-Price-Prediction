@@ -1,0 +1,38 @@
+Laptop Price Prediction
+
+1. Problem Statement
+
+Laptop prices depend on various specifications such as brand, processor, RAM, storage, GPU, screen size, and operating system. It is difficult to determine the appropriate price manually. Therefore, a machine learning system is developed to predict the price of a laptop based on its specifications.
+
+2. Identify AI/ML Type
+AI/ML: Machine Learning
+Learning Type: Supervised Learning
+Problem Type: Regression
+Algorithms: Linear Regression, Decision Tree, Random Forest
+
+3. Objective
+
+To develop a supervised machine learning model that predicts the price of a laptop based on its technical specifications such as brand, processor, RAM, storage, GPU, and display.
+
+Input: Laptop Specifications
+Output: Predicted Laptop Price
+
+Workflow Model:
+
+Data Collection
+↓
+Data Preprocessing
+↓
+Feature Selection
+↓
+Train & Test Data
+↓
+Model Training
+↓
+Regression Model
+↓
+Price Prediction
+↓
+Model Evaluation
+
+
