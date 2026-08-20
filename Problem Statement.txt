@@ -14,9 +14,6 @@ Algorithms: Linear Regression, Decision Tree, Random Forest
 
 To develop a supervised machine learning model that predicts the price of a laptop based on its technical specifications such as brand, processor, RAM, storage, GPU, and display.
 
-Input: Laptop Specifications
-Output: Predicted Laptop Price
-
 Workflow Model:
 
 Data Collection
@@ -34,5 +31,8 @@ Regression Model
 Price Prediction
 ↓
 Model Evaluation
+
+Input: Laptop Specifications
+Output: Predicted Laptop Price
 
 
